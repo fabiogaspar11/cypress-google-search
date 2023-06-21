@@ -1,0 +1,6 @@
+projectKey=token_teste2
+serverUrl=https://sonar.creis.pt
+serverVersion=8.3.1.34397
+dashboardUrl=https://sonar.creis.pt/dashboard?id=token_teste2
+ceTaskId=AYjfWgcYycD9pccTjLYA
+ceTaskUrl=https://sonar.creis.pt/api/ce/task?id=AYjfWgcYycD9pccTjLYA
